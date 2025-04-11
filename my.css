@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.BG {
+    background-image: url(https://static.vecteezy.com/system/resources/previews/042/687/809/non_2x/empty-sea-and-beach-background-photo.jpg);
+    width: 100vw;
+    height: 100vh;
+}
+
+.Align {
+    text-align: right;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: bold;
+}
+
+.heading {
+    font-family: "Lobster";
+    font-size: 36px;
+    font-style: normal;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.paragraph {
+    font-family: "Bree-Serif";
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 200;
+}
